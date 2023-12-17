@@ -10,7 +10,7 @@ body{
 }
 
 body  p {
-    margin: 0 15px 15px 15px;
+    margin: 0 15px 15px 0;
     font-size: 16px;
     color: #b3acb4;
     text-align: center;
@@ -29,7 +29,7 @@ body  p {
     max-width: 35%;
     margin: auto;
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 @media only screen and (max-width: 700px) {
